@@ -2,7 +2,7 @@
 
 #1st Step: Data Aquisiton
 
-data<-read.csv("D:/Data Science/Machine Learning/By Utkarsh Sir/Dataset/diabetes.csv")
+data<-read.csv("D:/Data Science/Machine Learning/Shakti/Dataset/diabetes.csv")
 View(data)
 
 
